@@ -2,7 +2,7 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate Developer and Learner. I love to built application that solve any problems 😄
+<h3 align="center">A passionate Developer and Learner. I love to built application and Web Pages that solves any problem 😄
 </h3>
 
 <br>
@@ -17,7 +17,7 @@
 - 💬 Ask me about anything, I am happy to help and dicuss any topic :smile:
 - 📬 How to reach me: [linkedin](https://www.linkedin.com/in/harshil-patel-997b88219/)
 - ⚡ Fun fact: I love connecting with different people and dicuss current trend :raised_hands:
-- 👉 To check all of my Personal and College project visit my github Repo [Github](https://github.com/hpatel292-seneca?tab=repositories)
+- 👉 To check all of my Personal and College project visit my github Repo: [Github](https://github.com/hpatel292-seneca?tab=repositories)
 </br>
 
 <h3 align="left">▶ Connect with me:</h3>

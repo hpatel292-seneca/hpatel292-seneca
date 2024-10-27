@@ -2,7 +2,7 @@
 
 ## 🧐 About
 
-<h3 align="center">A passionate Developer and Learner. I love to built application and Web Pages that solves any problem 😄
+<h3 align="center">A passionate Developer and Learner. I love to built application and Web Pages that solves some problem 😄
 </h3>
 
 <br>

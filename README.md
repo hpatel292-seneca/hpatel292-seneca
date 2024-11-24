@@ -20,6 +20,30 @@
 - 👉 To check all of my Personal and College project visit my github Repo: [Github](https://github.com/hpatel292-seneca?tab=repositories)
 </br>
 
+Here is the updated table format with the specified columns:
+
+---
+
+## 🌟 Open Source Contributions
+
+I actively contribute to open-source projects to improve my skills, collaborate with the community, and give back to the developer ecosystem. Below is a table summarizing my contributions:
+
+| **Repo Name**         | **Description**                                                            | **Issue Link**                                                       | **PR Link**                                                          | **Blog Link**                                                       |
+|------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
+| [**Node**](https://github.com/nodejs/node) | Add a level parameter to test runner diagnostics | [View Issue](https://github.com/nodejs/node/issues/55922) | [View PR](https://github.com/nodejs/node/pull/55964) | TDB |
+| [**ChatCraft**](https://github.com/tarasglek/chatcraft.org) | Re-use features from Ask menu in Retry sub-menu  | [View Issue](https://github.com/tarasglek/chatcraft.org/issues/643) | [View PR](https://github.com/tarasglek/chatcraft.org/pull/730) | [Blog](https://dev.to/harshil_patel/stepping-out-of-my-comfort-zone-refactoring-menus-in-chatcraft-4ea4) |
+| [**Xunit**](https://github.com/xunit/xunit) | Add an analyzer which recommends nameof usage | [View Issue](https://github.com/xunit/xunit/issues/2991) | [View PR](https://github.com/xunit/xunit/pull/3062) | [Blog](https://dev.to/harshil_patel/from-bug-fixes-to-best-practices-my-open-source-contributions-to-chatcraft-and-xunit-3kdc) |
+| [**ChatCraft**](https://github.com/tarasglek/chatcraft.org/) | Sometime AI message retry is failing.  | [View Issue](https://github.com/tarasglek/chatcraft.org/issues/716) | [View PR](https://github.com/tarasglek/chatcraft.org/pull/733) | [Blog](https://dev.to/harshil_patel/from-bug-fixes-to-best-practices-my-open-source-contributions-to-chatcraft-and-xunit-3kdc) |
+| [**WrenAI**](https://github.com/Canner/WrenAI) | The Sync Status on the modeling page is `unsync` after onboarding process finished. | [View Issue](https://github.com/Canner/WrenAI/issues/706) | [View PR](https://github.com/Canner/WrenAI/pull/745) | [Blog](https://dev.to/harshil_patel/hacktoberfest-24-pr-to-big-open-source-repo-72k) |
+| [**ChatCraft**](https://github.com/tarasglek/chatcraft.org) | Date and Message option are overlapping in Mobile view. | [View Issue](https://github.com/tarasglek/chatcraft.org/issues/747) | [View PR](https://github.com/tarasglek/chatcraft.org/pull/751) | - |
+| [libplanet](https://github.com/planetarium/libplanet) | Remove redundant `Initialize()` on `TestUtils` | [View Issue](https://github.com/planetarium/libplanet/issues/3781) | [View PR](https://github.com/planetarium/libplanet/pull/3972) | [Blog](https://dev.to/harshil_patel/hacktoberfest-44-the-final-pr-p08) |
+| [**ChatCraft**](https://github.com/tarasglek/chatcraft.org/) | Text-to-Speech button is redudant in Mobile view. | [View Issue](https://github.com/tarasglek/chatcraft.org/issues/746) | [View PR](https://github.com/tarasglek/chatcraft.org/pull/750) | - |
+| [ZTM-Quest](https://github.com/zero-to-mastery/ZTM-Quest) | Add sprint/running to player | [View Issue](https://github.com/zero-to-mastery/ZTM-Quest/issues/142) | [View PR](https://github.com/zero-to-mastery/ZTM-Quest/pull/153) | [Blog](https://dev.to/harshil_patel/hacktoberfest-34-contributing-to-ztm-quest-1agb) |
+| [**ChatCraft**](https://github.com/tarasglek/chatcraft.org) | Use better icons for llama, Gemini, and other models | [View Issue](https://github.com/tarasglek/chatcraft.org/issues/675) | [View PR](https://github.com/tarasglek/chatcraft.org/pull/690) | [Blog](https://dev.to/harshil_patel/first-open-source-project-for-hacktoberfest-2024-45al) |
+---
+
+
+
 <h3 align="left">▶ Connect with me:</h3>
   <p>
     <a href="https://www.linkedin.com/in/harshil-patel-997b88219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshil-patel-997b88219/)](https://www.linkedin.com/in/harshil-patel-997b88219/"></a>  

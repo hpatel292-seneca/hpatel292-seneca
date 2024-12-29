@@ -1,30 +1,31 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=000000&width=435&lines=Hey+I+am+Harshil+%F0%9F%91%8B;I+am+Front+end+Developer+;I+am+Back+end+Developer+)](https://git.io/typing-svg)
+## 👨‍💻 **Harshil Patel** 
+Software Developer | Open-Source Enthusiast  
 
-## 🧐 About
+Welcome to my GitHub! I'm a passionate software developer with a strong foundation in cloud computing, full-stack development, and scalable microservices. With a deep appreciation for clean and maintainable code, I thrive on solving complex problems and building impactful solutions.
 
-<h3 align="center">A passionate Developer and Learner. I love to built application and Web Pages that solves some problem 😄
-</h3>
+### 🌟 **About Me**  
+- **Education:** Advanced Diploma in Computer Programming and Analysis (GPA: 4.0/4.0), Seneca Polytechnic  
+- **Experience:** Software Developer Intern at HOOPP, where I contributed to cloud migrations, CI/CD pipelines, and frontend optimizations.  
+- **Open-Source Advocate:** Proud contributor to repositories like Node.js and creator of tools like **ResumeEnhancer**, available on PyPI.  
 
-<br>
+### 🔧 **Skills & Technologies**  
+- **Languages:** Python, C#, JavaScript, TypeScript  
+- **Frontend:** React.js, Next.js, HTML/CSS, Bootstrap  
+- **Backend:** Node.js, ASP.NET Core, Flask  
+- **Cloud:** Azure (Certified: AZ204), AWS (EC2, ECS, S3, DynamoDB, Lambda)  
+- **DevOps:** Docker, Kubernetes, GitHub Actions, Azure DevOps  
+- **Databases:** SQL, PostgreSQL, MongoDB  
 
-<img align="right" margin-top="20px" height="270px" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+### 🏆 **Notable Projects**  
+- **Fragments Microservices:** Built a scalable AWS-based microservice architecture with secure authentication, optimized data management, and automated CI/CD pipelines.  
+- **Resume Enhancer:** An AI-powered CLI tool to optimize resumes for job descriptions, enabling developers to improve their profiles effectively.  
+- **StyleMate:** An interactive styling tool integrating AI and weather APIs, built with ASP.NET Core and Razor Pages.
+
+### 📫 **Let’s Collaborate!**  
+I'm always excited to contribute to innovative projects or collaborate on open-source initiatives. If you’re working on something awesome or need help with cloud, microservices, or automation, feel free to reach out or fork my repositories!
 
 
-- 🔭 My Portfolio Website :[ Link](https://iamharshilpatel.netlify.app/)
-- 🌱 I’m proficient in Backend Development.
-- 👯 I’m looking to collaborate with other Developers for Projects.
-- 🥅 I'm looking forward to make some Contribute to Open Source projects
-- 💬 Ask me about anything, I am happy to help and dicuss any topic :smile:
-- 📬 How to reach me: [linkedin](https://www.linkedin.com/in/harshil-patel-997b88219/)
-- ⚡ Fun fact: I love connecting with different people and dicuss current trend :raised_hands:
-- 👉 To check all of my Personal and College project visit my github Repo: [Github](https://github.com/hpatel292-seneca?tab=repositories)
-</br>
-
-Here is the updated table format with the specified columns:
-
----
-
-## 🌟 Open Source Contributions
+### 🌟 Open Source Contributions
 
 I actively contribute to open-source projects to improve my skills, collaborate with the community, and give back to the developer ecosystem. Below is a table summarizing my contributions:
 
